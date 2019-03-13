@@ -52,7 +52,7 @@
                     top: 50%;
                     left: 0px;
                     transform: translateY(-50%);
-                    background: transparent url('../../img/main-nav.png') center no-repeat;
+                    background: transparent url('../img/main-nav.png') center no-repeat;
 
                 }
 
@@ -285,7 +285,7 @@
             left: 5px;
             top: 50%;
             transform: translateY(-50%);
-            background: transparent url('../../img/basket.png') center no-repeat;
+            background: transparent url('../img/basket.png') center no-repeat;
         }
 
         &-value {
@@ -327,7 +327,7 @@
             width: 19px;
             top: 1px;
             left: 0;
-            background: transparent url('../../img/login.png') center no-repeat;
+            background: transparent url('../img/login.png') center no-repeat;
         }
     }
 
@@ -367,7 +367,7 @@
     button {
         width: 18px;
         height: 18px;
-        background: transparent url('../../img/search.png') center no-repeat;
+        background: transparent url('../img/search.png') center no-repeat;
         background-size: 100% 100%;
         border: none;
         position: absolute;

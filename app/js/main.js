@@ -48,3 +48,13 @@
 
 
     })
+
+
+    $('.header__mobile-item.--search').on('click', function(e){
+      e.preventDefault()
+      $('.search').addClass('--active')
+    })
+    $('.search__close').on('click', function(e){
+      e.preventDefault()
+      $('.search').removeClass('--active')
+    })
